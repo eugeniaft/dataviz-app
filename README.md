@@ -9,8 +9,7 @@ Type in a country to see plots displaying:
 - case mortality rate (new deaths / new cases)
 - vaccinations (% of total population vaccinated)
 
-This app is deployed using Heroku and can be accessed here:
-
+This app is deployed using Heroku and can be accessed [here](https://covid-19-data-viz.herokuapp.com)
 
 Thanks to the following posts for references on how to create a flask app
 
